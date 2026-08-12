@@ -1,0 +1,8 @@
+# Package definition for zoxide
+
+package_name: zoxide
+github_repo: ajeetdsouza/zoxide
+artifact_format: tar.gz
+description: "A smarter cd command for your terminal"
+
+# Build for all Debian suites and all supported architectures.
