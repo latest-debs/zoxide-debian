@@ -2,6 +2,7 @@
 
 package_name: zoxide
 github_repo: ajeetdsouza/zoxide
+license: MIT
 artifact_format: tar.gz
 description: "A smarter cd command for your terminal"
 
